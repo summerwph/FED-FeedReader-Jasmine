@@ -2,7 +2,7 @@
 
 It is a web-based application that reads RSS feeds created by Udacity. I'll add the followng test cases to complete the project criteria.
 
-Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
+##### Review the Feed Reader Testing  [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
 RSS Feeds
 1. allFeeds variable has been defined and that it is not empty.
@@ -19,13 +19,13 @@ Initial Entries
 New Feed Selection
 1. a new feed is loaded by the `loadFeed` function that the content actually changes.
 
-- No test should be dependent on the results of another.
-- Callbacks should be used to ensure that feeds are loaded before they are tested.
+** No test should be dependent on the results of another.
+** Callbacks should be used to ensure that feeds are loaded before they are tested.
 
-## How to run the project
+### How to run the project
 1. Clone the code or download the zip file to your local machine.
 2. Go to "frontend-nanodegree-feedreader" folder
 3. Open the index.html file in your browser.
 
-## Testing tools: Jasmine
-   Jasmine documentation: https://jasmine.github.io/
+### Testing tools: Jasmine
+Documentation: https://jasmine.github.io/
