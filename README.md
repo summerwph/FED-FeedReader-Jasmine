@@ -24,7 +24,7 @@ New Feed Selection
 
 ### How to run the project
 1. Clone the code or download the zip file to your local machine.
-2. Go to "frontend-nanodegree-feedreader" folder
+2. Go to "FED-FeedReader-Jasmine" folder
 3. Open the index.html file in your browser.
 
 ### Testing tools: Jasmine
